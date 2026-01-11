@@ -1,3 +1,7 @@
+Download Instructions:
+1. Click "AutoAcceptOwnTaskInVehicle.zip"
+2. Click the "..." button in the top right of page.
+3. Select "Download"
 # Auto Accept Own Task In Vehicle
 Automatically accept a task that was created by you while in a vehicle.
 
